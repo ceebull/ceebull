@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cebull
+- 👋 Hi, I’m @cecbull
 - 👀 I’m interested in workflow automation with Github Actions using PowerShell
 - I'm a complete beginner and looking forward to the journey!
 
